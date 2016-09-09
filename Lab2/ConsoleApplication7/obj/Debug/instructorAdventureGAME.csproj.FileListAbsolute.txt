@@ -1,0 +1,9 @@
+C:\ExpIT\Demos\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\ExpIT\Demos\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\ExpIT\Demos\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\ExpIT\Demos\ConsoleApplication7\ConsoleApplication7\obj\Debug\instructorAdventureGAME.csprojResolveAssemblyReference.cache
+C:\ExpIT\Demos\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\ExpIT\Demos\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\ExpIT\Demos\Lab2\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\ExpIT\Demos\Lab2\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\ExpIT\Demos\Lab2\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

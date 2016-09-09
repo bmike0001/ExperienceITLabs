@@ -1,0 +1,6 @@
+c:\users\experienceit\documents\visual studio 2015\Projects\Lab3 -Squares.Cubes\Lab3 -Squares.Cubes\bin\Debug\Lab3 -Squares.Cubes.exe.config
+c:\users\experienceit\documents\visual studio 2015\Projects\Lab3 -Squares.Cubes\Lab3 -Squares.Cubes\obj\Debug\Lab3 -Squares.Cubes.csprojResolveAssemblyReference.cache
+c:\users\experienceit\documents\visual studio 2015\Projects\Lab3 -Squares.Cubes\Lab3 -Squares.Cubes\bin\Debug\Lab3 -Squares.Cubes.exe
+c:\users\experienceit\documents\visual studio 2015\Projects\Lab3 -Squares.Cubes\Lab3 -Squares.Cubes\bin\Debug\Lab3 -Squares.Cubes.pdb
+c:\users\experienceit\documents\visual studio 2015\Projects\Lab3 -Squares.Cubes\Lab3 -Squares.Cubes\obj\Debug\Lab3 -Squares.Cubes.exe
+c:\users\experienceit\documents\visual studio 2015\Projects\Lab3 -Squares.Cubes\Lab3 -Squares.Cubes\obj\Debug\Lab3 -Squares.Cubes.pdb

@@ -1,0 +1,6 @@
+c:\ExpIT\Demos\LAB 1\LAB 1\bin\Debug\LAB 1.exe.config
+C:\ExpIT\Demos\LAB 1\LAB 1\bin\Debug\LAB 1.exe
+C:\ExpIT\Demos\LAB 1\LAB 1\bin\Debug\LAB 1.pdb
+C:\ExpIT\Demos\LAB 1\LAB 1\obj\Debug\LAB 1.csprojResolveAssemblyReference.cache
+C:\ExpIT\Demos\LAB 1\LAB 1\obj\Debug\LAB 1.exe
+C:\ExpIT\Demos\LAB 1\LAB 1\obj\Debug\LAB 1.pdb
