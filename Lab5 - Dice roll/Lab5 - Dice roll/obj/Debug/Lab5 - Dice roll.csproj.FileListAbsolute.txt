@@ -1,0 +1,6 @@
+c:\users\experienceit\documents\visual studio 2015\Projects\Lab5 - Dice roll\Lab5 - Dice roll\bin\Debug\Lab5 - Dice roll.exe.config
+c:\users\experienceit\documents\visual studio 2015\Projects\Lab5 - Dice roll\Lab5 - Dice roll\bin\Debug\Lab5 - Dice roll.exe
+c:\users\experienceit\documents\visual studio 2015\Projects\Lab5 - Dice roll\Lab5 - Dice roll\bin\Debug\Lab5 - Dice roll.pdb
+c:\users\experienceit\documents\visual studio 2015\Projects\Lab5 - Dice roll\Lab5 - Dice roll\obj\Debug\Lab5 - Dice roll.csprojResolveAssemblyReference.cache
+c:\users\experienceit\documents\visual studio 2015\Projects\Lab5 - Dice roll\Lab5 - Dice roll\obj\Debug\Lab5 - Dice roll.exe
+c:\users\experienceit\documents\visual studio 2015\Projects\Lab5 - Dice roll\Lab5 - Dice roll\obj\Debug\Lab5 - Dice roll.pdb

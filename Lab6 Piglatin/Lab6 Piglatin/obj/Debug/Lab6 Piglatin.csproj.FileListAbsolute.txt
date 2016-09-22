@@ -1,0 +1,6 @@
+c:\users\experienceit\documents\visual studio 2015\Projects\Lab6 Piglatin\Lab6 Piglatin\bin\Debug\Lab6 Piglatin.exe.config
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\Lab6 Piglatin\Lab6 Piglatin\bin\Debug\Lab6 Piglatin.exe
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\Lab6 Piglatin\Lab6 Piglatin\bin\Debug\Lab6 Piglatin.pdb
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\Lab6 Piglatin\Lab6 Piglatin\obj\Debug\Lab6 Piglatin.exe
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\Lab6 Piglatin\Lab6 Piglatin\obj\Debug\Lab6 Piglatin.pdb
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\Lab6 Piglatin\Lab6 Piglatin\obj\Debug\Lab6 Piglatin.csprojResolveAssemblyReference.cache

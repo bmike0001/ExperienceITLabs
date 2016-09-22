@@ -7,3 +7,6 @@ C:\ExpIT\Demos\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplicat
 C:\ExpIT\Demos\Lab2\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
 C:\ExpIT\Demos\Lab2\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
 C:\ExpIT\Demos\Lab2\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\ExperienceITLabs\Lab2\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\ExperienceITLabs\Lab2\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\ExperienceITLabs\Lab2\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

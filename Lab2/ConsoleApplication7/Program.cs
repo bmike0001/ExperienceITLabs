@@ -29,6 +29,7 @@ namespace ConsoleApplication7
                 {
 
                     Console.WriteLine("You approach the dragon. How many Heads does the dragon have?" + ("enter 1, 2, 3"));
+
                     string numberHeads = Console.ReadLine();
 
                     Console.WriteLine("No one has ever faced a " + numberHeads+ "-headed dragon before! Choose your weapon. enter Slingshot,Sword,Bow and arrow");
