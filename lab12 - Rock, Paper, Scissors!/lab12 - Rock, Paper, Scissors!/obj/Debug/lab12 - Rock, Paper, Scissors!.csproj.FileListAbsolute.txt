@@ -1,0 +1,6 @@
+c:\users\experienceit\documents\visual studio 2015\Projects\lab12 - Rock, Paper, Scissors!\lab12 - Rock, Paper, Scissors!\bin\Debug\lab12RockPaperScissor.exe.config
+c:\users\experienceit\documents\visual studio 2015\Projects\lab12 - Rock, Paper, Scissors!\lab12 - Rock, Paper, Scissors!\bin\Debug\lab12RockPaperScissor.exe
+c:\users\experienceit\documents\visual studio 2015\Projects\lab12 - Rock, Paper, Scissors!\lab12 - Rock, Paper, Scissors!\bin\Debug\lab12RockPaperScissor.pdb
+c:\users\experienceit\documents\visual studio 2015\Projects\lab12 - Rock, Paper, Scissors!\lab12 - Rock, Paper, Scissors!\obj\Debug\lab12RockPaperScissor.exe
+c:\users\experienceit\documents\visual studio 2015\Projects\lab12 - Rock, Paper, Scissors!\lab12 - Rock, Paper, Scissors!\obj\Debug\lab12RockPaperScissor.pdb
+c:\users\experienceit\documents\visual studio 2015\Projects\lab12 - Rock, Paper, Scissors!\lab12 - Rock, Paper, Scissors!\obj\Debug\lab12 - Rock, Paper, Scissors!.csprojResolveAssemblyReference.cache
