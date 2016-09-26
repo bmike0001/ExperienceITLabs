@@ -1,0 +1,6 @@
+c:\users\experienceit\documents\visual studio 2015\Projects\Lab8 - Batting Avg\Lab8 - Batting Avg\bin\Debug\Lab8 - Batting Avg.exe.config
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\Lab8 - Batting Avg\Lab8 - Batting Avg\bin\Debug\Lab8 - Batting Avg.exe
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\Lab8 - Batting Avg\Lab8 - Batting Avg\bin\Debug\Lab8 - Batting Avg.pdb
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\Lab8 - Batting Avg\Lab8 - Batting Avg\obj\Debug\Lab8 - Batting Avg.csprojResolveAssemblyReference.cache
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\Lab8 - Batting Avg\Lab8 - Batting Avg\obj\Debug\Lab8 - Batting Avg.exe
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\Lab8 - Batting Avg\Lab8 - Batting Avg\obj\Debug\Lab8 - Batting Avg.pdb
